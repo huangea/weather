@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<string>微风［≤10m/h］</string>
+	<key>1</key>
+	<string>3-4级［10~17m/h］</string>
+	<key>2</key>
+	<string>4-5级［17~25m/h］</string>
+	<key>3</key>
+	<string>5-6级［25~34m/h］</string>
+	<key>4</key>
+	<string>6-7级［34~43m/h］</string>
+	<key>5</key>
+	<string>7-8级［43~54m/h］</string>
+	<key>6</key>
+	<string>8-9级［54~65m/h］</string>
+	<key>7</key>
+	<string>9-10级［65~77m/h］</string>
+	<key>8</key>
+	<string>10-11级［77~89m/h］</string>
+	<key>9</key>
+	<string>11-12级［89~102m/h］</string>
+</dict>
+</plist>
